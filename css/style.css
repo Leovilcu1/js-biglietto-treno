@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    border: 5px dashed green;
+    border-radius: 30px;
+}
+h1{
+    display: inline-block;
+    padding-right: 30px;
+    vertical-align: middle;
+    color: green;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    color: red;
+    font-size: 30px;
+    text-decoration: underline;
+    
+}
